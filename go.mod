@@ -1,3 +1,3 @@
-module github.com/progsgh/repo_anda
+module github.com/progsgh/ludes-hello-golang
 
 go 1.18
