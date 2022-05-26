@@ -7,4 +7,5 @@ func PrintNama() {
 	println("hello")
 	println("foo bar")
 	println("next")
+	println("hello")
 }
